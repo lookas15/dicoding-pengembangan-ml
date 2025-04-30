@@ -2,9 +2,9 @@
 Repository ini merupakan contoh proyek dari kelas Belajar Pengembangan Machine Learning.
 
 Note
-tfjs = TF Javascript
-tflite = TF Lite (for mobile)
-tfserving = TF serving (docker stuff)
+- tfjs = TF Javascript
+- tflite = TF Lite (for mobile)
+- tfserving = TF serving (docker stuff)
 
 For each project folder,
 1. Solution is the folder for final/latest form
